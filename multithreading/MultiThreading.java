@@ -1,5 +1,4 @@
 package com.multithreading;
-
 // ThreadEx class extends Thread and overrides the run method
 class ThreadEx extends Thread {
     @Override
